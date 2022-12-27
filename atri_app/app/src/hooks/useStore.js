@@ -67,6 +67,39 @@ const desktopModeProps = {
     "Flex8": {
       "callbacks": {}
     },
+    "Div4": {
+      "callbacks": {}
+    },
+    "Flex9": {
+      "callbacks": {}
+    },
+    "Flex10": {
+      "callbacks": {}
+    },
+    "Div5": {
+      "callbacks": {}
+    },
+    "Flex16": {
+      "callbacks": {}
+    },
+    "Div9": {
+      "callbacks": {}
+    },
+    "Flex17": {
+      "callbacks": {}
+    },
+    "Div10": {
+      "callbacks": {}
+    },
+    "Flex18": {
+      "callbacks": {}
+    },
+    "Flex21": {
+      "callbacks": {}
+    },
+    "Div12": {
+      "callbacks": {}
+    },
     "Logo": {
       "custom": {
         "alt": "No preview available",
@@ -294,6 +327,297 @@ const desktopModeProps = {
       "custom": {
         "alt": "No preview available",
         "src": "/app-assets/logoipsum4.png"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox12": {
+      "custom": {
+        "text": "SERVICES"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox13": {
+      "custom": {
+        "text": "Design that solves problems, one product at a time."
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image12": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/icon1.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox16": {
+      "custom": {
+        "text": "What I can do for you"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox17": {
+      "custom": {
+        "text": "Faster, better products that your users love. Here's all the services I provide:"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox18": {
+      "custom": {
+        "text": "Front-end Development"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox19": {
+      "custom": {
+        "text": " Design Strategy"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox20": {
+      "custom": {
+        "text": " Web and Mobile App Design"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image18": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/icon2.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox39": {
+      "custom": {
+        "text": "Applications I'm fluent in"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox40": {
+      "custom": {
+        "text": "Every designer needs the right tools to do the perfect job. Thankfully, I'm multilingual."
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox36": {
+      "custom": {
+        "text": "Figma"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox37": {
+      "custom": {
+        "text": "Sketch"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox38": {
+      "custom": {
+        "text": "Webflow"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Image19": {
+      "custom": {
+        "alt": "No preview available",
+        "src": "/app-assets/icon3.svg"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox44": {
+      "custom": {
+        "text": "What you can expect"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox45": {
+      "custom": {
+        "text": "I design products that are more than pretty. I make them shippable and usable."
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox41": {
+      "custom": {
+        "text": "Efficient and maintainable"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox42": {
+      "custom": {
+        "text": "Clean and functional"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox43": {
+      "custom": {
+        "text": "Device and user friendly "
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "Button6": {
+      "custom": {
+        "text": "View all projects"
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox54": {
+      "custom": {
+        "text": "I bring results."
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox55": {
+      "custom": {
+        "text": "My clients are proof."
+      },
+      "callbacks": {
+        "onClick": [
+          {
+            "sendEventData": true
+          }
+        ]
+      }
+    },
+    "TextBox50": {
+      "custom": {
+        "text": "PROJECTS"
       },
       "callbacks": {
         "onClick": [

@@ -1,9 +1,10 @@
 {
   "Menu": 1,
-  "Flex": 8,
-  "Div": 3,
-  "TextBox": 11,
-  "Image": 11,
-  "Button": 4,
-  "Icon": 1
+  "Flex": 21,
+  "Div": 12,
+  "TextBox": 55,
+  "Image": 19,
+  "Button": 6,
+  "Icon": 1,
+  "Carousel": 3
 }
