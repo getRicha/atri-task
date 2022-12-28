@@ -627,7 +627,10 @@ const desktopModeProps = {
         ]
       }
     }
-  }
+  },
+  "contact": {},
+  "projects": {},
+  "blogs": {}
 }};
 
 useStore.setState(desktopModeProps);

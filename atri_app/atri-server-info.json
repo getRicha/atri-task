@@ -5,6 +5,15 @@
   "pages": {
     "/": {
       "name": "Home"
+    },
+    "/contact": {
+      "name": "contact"
+    },
+    "/projects": {
+      "name": "projects"
+    },
+    "/blogs": {
+      "name": "blogs"
     }
   },
   "publicUrlAssetMap": {

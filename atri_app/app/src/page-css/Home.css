@@ -62,7 +62,7 @@ padding-bottom: 40px;
 align-self: center;
 }
 .p-Home.Div4 {
-;
+align-self: center;
 }
 .p-Home.Flex9 {
 display: flex;
@@ -235,9 +235,13 @@ text-align: center;
 font-family: IBM Plex Sans;
 font-weight: 700;
 font-size: 3rem;
-padding-left: 80px;
-padding-right: 80px;
+padding-left: ;
+padding-right: ;
 line-height: 3rem;
+width: 60%;
+align-self: auto;
+box-sizing: content-box;
+margin-left: 200px;
 }
 .p-Home.Image12 {
 width: 80px;

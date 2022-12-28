@@ -2,5 +2,17 @@
   "home": {
     "name": "Home",
     "route": "/"
+  },
+  "e2992ec8-9d84-48f1-9c15-a9224f8a4fe1": {
+    "name": "contact",
+    "route": "/contact"
+  },
+  "6f10f388-c037-405b-ba4a-be5d75463ff7": {
+    "name": "projects",
+    "route": "/projects"
+  },
+  "17360f3d-7065-4fcd-a72a-e27052a54b84": {
+    "name": "blogs",
+    "route": "/blogs"
   }
 }

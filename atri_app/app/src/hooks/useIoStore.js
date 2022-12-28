@@ -2,7 +2,10 @@ import create from "zustand";
 
 const useIoStore = create((set) => {
   return {
-  "Home": {}
+  "Home": {},
+  "contact": {},
+  "projects": {},
+  "blogs": {}
 }});
 
 export default useIoStore;
